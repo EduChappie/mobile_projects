@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MeuApp</string>
+
+    <string name="entrar">Entrar</string>
+    <string name="cadastro">Crie uma conta clicando aqui</string>
+    <string name="title_formCadastro">Cadastre-se</string>
+</resources>
